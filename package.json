@@ -1,0 +1,12 @@
+{
+  "name": "firestore-ufvvabs-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "10.0.0"
+  }
+}
